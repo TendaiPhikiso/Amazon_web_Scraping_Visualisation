@@ -2,8 +2,8 @@
 
 <h1> Visualising Amazon Data Books | Power BI </h1>
 
+![image](https://github.com/user-attachments/assets/7cd0574a-6be3-49f9-ab26-f15f20bfaae7)
 
-![image](https://github.com/user-attachments/assets/e9e9df84-a918-49f4-b1f5-b0e9f89e22fd)
 
 
 </div>
