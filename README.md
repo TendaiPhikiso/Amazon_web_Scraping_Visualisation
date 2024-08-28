@@ -116,5 +116,5 @@ RETURN
 While this dashboard provides valuable insights, there are some limitations and considerations to keep in mind:
 
 1. Sample Size: The dataset includes 233 books, which is substantial but still a relatively small sample. A larger dataset may reveal different trends and provide stronger conclusions.
-2. Data Availability: One of the key limitations is the lack of complete data for Kindle editions.
+2. Data Availability: One of the key limitations is the lack of complete data for Kindle editions. All Kindle edition books were out of stock at the time of scraping, which meant that their selling price could not be calculated, as out-of-stock books did not have a selling price attribute available during the data collection. Additionally, because Kindle editions are digital formats, they did not include print length as a variable during the scraping phase, which excluded them from the analysis of the correlation coefficient between print length and review count
 
