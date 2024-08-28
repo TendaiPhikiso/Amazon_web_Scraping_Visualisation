@@ -8,10 +8,16 @@
 
 ## Overview 📊
 
-This dashboard was developed to visualize data related to books scraped from Amazon. The dashboard provides insights into the trends, top authors & books, and key metrics related to books focused on data science, data analysis, and related fields.
+This dashboard was developed to visualize data related to books scraped from Amazon, providing insights into trends and key metrics for books focused on data science, data analysis, and related fields. The dashboard features various visualizations, including tables displaying the top 5 authors and books, a treemap illustrating the distribution of book formats (paperback, hardcover, and Kindle edition), and an area chart showing the number of books published over time starting from 1992. Additionally, it applies a statistical method (Pearson correlation coefficient) to explore the relationship between print length and review count by book format.
+
+The data was visualized as part of the analysis phase conducted previously using SQL [Click here to view Analysis](https://github.com/TendaiPhikiso/Amazon_web_scraping_Load_AnalysisPhase), highlighting key metrics such as the total number of books, average ratings, and average selling prices.
 
 ---
+### KPI Insights
 
+- **Total Books and Authors:**  The dataset contains a total of 233 books authored by 218 individuals. This suggests that the data science community has a notable and diverse group of contributors, with some authors writing multiple books.
+- **Average Rating (3.98):** The average rating of 3.98 indicates that the quality of books in this niche is relatively high. A rating near 4.0 suggests that most books are positively received, though there’s always room for improvement in terms of content quality or accessibility.
+- **Average Selling Price (£20.63):** The average price is moderate, likely making data-related books accessible to a broad audience, including students, professionals, and enthusiasts.
 ---
 ## Trends in Data Book Publishing
 
