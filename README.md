@@ -19,27 +19,25 @@ The data was visualized as part of the analysis phase conducted previously using
 - **Average Rating (3.98):** The average rating of 3.98 indicates that the quality of books in this niche is relatively high. A rating near 4.0 suggests that most books are positively received, though there’s always room for improvement in terms of content quality or accessibility.
 - **Average Selling Price (£20.63):** The average price is moderate, likely making data-related books accessible to a broad audience, including students, professionals, and enthusiasts.
 ---
-## Trends in Data Book Publishing
 
+### Trends in Data Book Publishing
 The dashboard highlights a noticeable trend in the increasing number of data-related books published starting in 2019. This reflects the growing interest in data science, machine learning, and artificial intelligence as these fields have become central to many industries and professions.
 
 ---
 
 ### Correlation Between Print Length and Review Count
-To explore how the length of books correlates with their popularity (measured by review count), we calculated correlation coefficients for each format:
+To explore how the length of books correlates with their popularity (measured by review count), I calculated correlation coefficients for each format:
 
-Paperback: Correlation of 0.05
-Kindle Edition: Data unavailable (blank)
-Hardcover: Correlation of -0.06
+- Paperback: Correlation of 0.05
+- Kindle Edition: Data unavailable (blank)
+- Hardcover: Correlation of -0.06
 
-
-### Correlation Insights for Individual Book formats
-
-**Paperback (0.05 correlation)**:
+  
+** 1. Paperback (0.05 correlation)**:
     
 A correlation coefficient of 0.05 indicates a very weak positive linear relationship between print length and review count for paperback books. This means that as the print length increases, the review count increases slightly, but the relationship is very weak.
 
-**Hardcover (-0.06 correlation)**:
+** 2. Hardcover (-0.06 correlation)**:
 A correlation coefficient of -0.06 indicates a very weak negative linear relationship between print length and review count for hardcover books. The negative correlation for hardcover books, though weak, could suggest that longer hardcover books tend to receive slightly fewer reviews.
 
 ---
