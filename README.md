@@ -33,11 +33,11 @@ To explore how the length of books correlates with their popularity (measured by
 - Hardcover: Correlation of -0.06
 
   
-** 1. Paperback (0.05 correlation)**:
+**1. Paperback (0.05 correlation)**:
     
 A correlation coefficient of 0.05 indicates a very weak positive linear relationship between print length and review count for paperback books. This means that as the print length increases, the review count increases slightly, but the relationship is very weak.
 
-** 2. Hardcover (-0.06 correlation)**:
+**2. Hardcover (-0.06 correlation)**:
 A correlation coefficient of -0.06 indicates a very weak negative linear relationship between print length and review count for hardcover books. The negative correlation for hardcover books, though weak, could suggest that longer hardcover books tend to receive slightly fewer reviews.
 
 ---
@@ -115,6 +115,6 @@ RETURN
 
 While this dashboard provides valuable insights, there are some limitations and considerations to keep in mind:
 
-1. Sample Size:
-2. Data Availability
+1. Sample Size: The dataset includes 233 books, which is substantial but still a relatively small sample. A larger dataset may reveal different trends and provide stronger conclusions.
+2. Data Availability: One of the key limitations is the lack of complete data for Kindle editions.
 
