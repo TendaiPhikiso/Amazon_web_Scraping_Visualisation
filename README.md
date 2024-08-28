@@ -15,10 +15,18 @@ Kindle Edition: Data unavailable (blank)
 Hardcover: Correlation of -0.06
 
 
+### Correlation Insights for Individual Book formats
+
+**Paperback (0.05 correlation)**:
+    
+A correlation coefficient of 0.05 indicates a very weak positive linear relationship between print length and review count for paperback books. This means that as the print length increases, the review count increases slightly, but the relationship is very weak.
+
+**Hardcover (-0.06 correlation)**:
+A correlation coefficient of -0.06 indicates a very weak negative linear relationship between print length and review count for hardcover books. This means that as the print length increases, the review count decreases slightly.
 
 ![image](https://github.com/user-attachments/assets/ab4820f7-3ced-41eb-ad26-c6ccc312c242)
 
-## Code 
+### DAX Code 
 ```sql
 
 Correlation Coefficient = 
