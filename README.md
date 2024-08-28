@@ -6,6 +6,10 @@
 
 </div>
 
+## Overview 📊
+
+This dashboard was developed to visualize data related to books scraped from Amazon. The dashboard provides insights into the trends and key metrics related to books focused on data science, data analysis, and related fields.
+
 ---
 
 ### Correlation Between Print Length and Review Count
