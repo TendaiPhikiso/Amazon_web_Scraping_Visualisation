@@ -6,6 +6,7 @@
 
 </div>
 
+---
 
 ### Correlation Between Print Length and Review Count
 To explore how the length of books correlates with their popularity (measured by review count), we calculated correlation coefficients for each format:
@@ -22,7 +23,9 @@ Hardcover: Correlation of -0.06
 A correlation coefficient of 0.05 indicates a very weak positive linear relationship between print length and review count for paperback books. This means that as the print length increases, the review count increases slightly, but the relationship is very weak.
 
 **Hardcover (-0.06 correlation)**:
-A correlation coefficient of -0.06 indicates a very weak negative linear relationship between print length and review count for hardcover books. This means that as the print length increases, the review count decreases slightly.
+A correlation coefficient of -0.06 indicates a very weak negative linear relationship between print length and review count for hardcover books. The negative correlation for hardcover books, though weak, could suggest that longer hardcover books tend to receive slightly fewer reviews.
+
+---
 
 ![image](https://github.com/user-attachments/assets/ab4820f7-3ced-41eb-ad26-c6ccc312c242)
 
