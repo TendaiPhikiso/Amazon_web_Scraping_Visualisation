@@ -43,8 +43,11 @@ A correlation coefficient of -0.06 indicates a very weak negative linear relatio
 ### DAX Code 
 ```sql
 
-Correlation Coefficient = 
+Correlation Coefficient =
+-- setting up a subset of data to perform calculations for each unique book title
 VAR __CORRELATION_TABLE = VALUES('Data_Books'[BookTitle])
+
+-- __COUNT variable represents the value of n, which is the number of data points (observations) used in the correlation calculation.
 VAR __COUNT =
 	COUNTX(
 		KEEPFILTERS(__CORRELATION_TABLE),
