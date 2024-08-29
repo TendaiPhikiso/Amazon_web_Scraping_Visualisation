@@ -8,7 +8,7 @@
 
 ## Overview 📊
 
-This dashboard was developed to visualize data related to books scraped from Amazon, providing insights into trends and key metrics for books focused on data science, data analysis, and related fields. The dashboard features various visualizations, including tables displaying the top 5 authors and books, a treemap illustrating the distribution of book formats (paperback, hardcover, and Kindle edition), and an area chart showing the number of books published over time starting from 1992. Additionally, it applies a statistical method (Pearson correlation coefficient) to explore the relationship between print length and review count by book format.
+This dashboard was developed to visualize data related to books scraped from Amazon, providing insights into trends and key metrics for books focused on data science, data analysis, and related fields. The dashboard features various visualizations, including tables displaying the top 5 authors and books, a treemap illustrating the distribution of book formats (paperback, hardcover, and Kindle edition), and an area chart showing the number of books published over time starting from 1992. Additionally, I applied a statistical method (Pearson correlation coefficient) to explore the relationship between print length and review count by book format.
 
 The data was visualized as part of the analysis phase conducted previously using SQL ( [Click here to view Analysis](https://github.com/TendaiPhikiso/Amazon_web_scraping_Load_AnalysisPhase) ), highlighting key metrics such as the total number of books, average ratings, and average selling prices.
 
