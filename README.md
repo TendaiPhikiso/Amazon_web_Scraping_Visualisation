@@ -12,6 +12,8 @@ This dashboard was developed to visualize data related to books scraped from Ama
 
 The data was visualized as part of the analysis phase conducted previously using SQL ( [Click here to view Analysis](https://github.com/TendaiPhikiso/Amazon_web_scraping_Load_AnalysisPhase) ), highlighting key metrics such as the total number of books, average ratings, and average selling prices.
 
+[Click to View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWE4Y2U2ZjItNzRkMy00NWNjLTk3MWMtMWUwMjZlZjhhNzliIiwidCI6IjE2MmIyYmIwLWM3ZTEtNGZlZC04NzlkLTk2NTZhMWFjMzMyYiJ9)
+
 ---
 ### KPI Insights
 
